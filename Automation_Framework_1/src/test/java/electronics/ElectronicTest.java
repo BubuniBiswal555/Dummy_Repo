@@ -13,8 +13,9 @@ public class ElectronicTest {
 	
 	public void clickOnBooks() {
 		
-		
-		Reporter.log("bhuvn",true);		
+	
+		Reporter.log("bhuvn",true);	
+		Reporter.log("bhuvn",true);
 	}
 
 }
